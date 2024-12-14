@@ -1,0 +1,61 @@
+﻿  CloudImprinter.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         and
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         and
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         and
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.cpp(48,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ForOpenCV.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         and
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,94): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         and
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,70): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         with
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:             _Tp=double
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         ]
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         and
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         [
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:             _Tp=float
+C:\Users\viqto\source\repos\OpenCV\ForOpenCV\CloudImprinter.h(91,46): warning C4244:         ]
+  Generating Code...
+  ForOpenCV.vcxproj -> C:\Users\viqto\source\repos\OpenCV\x64\Debug\ForOpenCV.exe
